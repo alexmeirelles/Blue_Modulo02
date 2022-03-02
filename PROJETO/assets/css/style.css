@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+header {
+  background-color: aqua;
+}
+
+#tituloDaPagina {
+  color: blueviolet;
+}
+
+.texto {
+  color: brown;
+}
+
+section{
+  padding: 15px;
+  border: solid 1px red;
+  margin: 50px;
+}
